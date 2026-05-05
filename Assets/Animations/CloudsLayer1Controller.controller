@@ -73,7 +73,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: CloudsLayer2Controller
+  m_Name: CloudsLayer1Controller
   serializedVersion: 6
   m_AnimatorParameters: []
   m_AnimatorLayers:
@@ -120,7 +120,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: CloudsLayerAnimation
-  m_Speed: 0.02
+  m_Speed: 0.005
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -132,7 +132,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 5b58130ee4478444a9a4794209730962, type: 2}
+  m_Motion: {fileID: 7400000, guid: 613cd1013c4da8c4e9c4aa7fac487237, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
