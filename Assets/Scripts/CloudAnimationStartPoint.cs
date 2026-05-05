@@ -10,7 +10,8 @@ public class CloudAnimationStartPoint : MonoBehaviour
     void Start()
     {
         cloudAnimator = GetComponent<Animator>();
-        cloudAnimator.Play("CloudsLayerAnimation", 0, (startFrame/180));
+        cloudAnimator.Play("CloudsLayerAnimation", 0, (startFrame/120));
+        //print(cloudAnimator.GetCurrentAnimatorClipInfo(0)[0].clip.length);
     }
 
 }
