@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4132454354389839727}
   m_Layer: 0
-  m_Name: PortalPrefab
+  m_Name: PortalPrefabOld
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
