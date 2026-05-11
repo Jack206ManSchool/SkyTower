@@ -3,7 +3,42 @@ guid: 14e9b350931aa4d478a8d1c8ce77cddb
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CastleDrawbridgeMat
+    second: {fileID: 2100000, guid: b32350642b72f1e40a7e776279e14538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CastleFloorMat
+    second: {fileID: 2100000, guid: e87f3a93f9899fa4eade026b895c29c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CastleTurretBaseMat
+    second: {fileID: 2100000, guid: 180b4a1342ea79d4a9a101c427861d5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CastleWallMat
+    second: {fileID: 2100000, guid: a8ece8dc5fc05a747829840f2b4dadab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Darkness
+    second: {fileID: 2100000, guid: f35fca8749ca11346a573f092609c5b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__CastleWallMat
+    second: {fileID: 2100000, guid: 1835565be91201f4d840689ffb0a4896, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__CastleWallMat
+    second: {fileID: 2100000, guid: 6f5f4e98257eca2438b335edc9aca14f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
